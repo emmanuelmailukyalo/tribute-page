@@ -30,4 +30,10 @@ img {
       top: 320px;
       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
-  <!-- tue 25 jan 2022 -->
+
+  @media (min-width: 300px){
+    #img-caption{
+      width: 50%;
+      font-size: 18px;
+    }
+  }
