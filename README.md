@@ -1,6 +1,1 @@
-# tribute-page
-free-code-camp tribute page project
-Using HTML, CSS and bootstrap 
-#learning bootstrap
-js 
-js
+this is a simple ***tribute page*** i created 
